@@ -120,6 +120,16 @@
       "value": "Substance Abuse",
       "type": "string"
     },
+    "numerator": {
+      "ckan_name": "Numerator",
+      "value": "Number of DUI offenses per age group.",
+      "type": "string"
+    },
+    "denominator": {
+      "ckan_name": "Denominator",
+      "value": "Population for age group, reported by the US Census.",
+      "type": "string"
+    },     
     "geography": {
       "ckan_name": "Geography",
       "value": "Town",
